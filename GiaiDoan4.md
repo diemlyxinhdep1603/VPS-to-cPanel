@@ -1,4 +1,4 @@
-## GIAI ĐOẠN 4: ĐỊNH TUYẾN TÊN MIỀN NỘI BỘ VÀ TÍCH HỢP SSL (Local DNS Routing & SSL Integration)
+## GIAI ĐOẠN 4: ĐỊNH TUYẾN TÊN MIỀN NỘI BỘ VÀ TÍCH HỢP SSL
 
 **Mục đích:** Cập nhật phân giải tên miền (DNS) trên máy tính cá nhân để trỏ về IP của máy chủ Hosting mới, đồng thời di chuyển chứng chỉ bảo mật (SSL) từ VPS sang cPanel để đảm bảo kết nối HTTPS (ổ khóa xanh).
 
