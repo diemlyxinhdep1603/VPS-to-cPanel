@@ -1,6 +1,6 @@
 ## GIAI ĐOẠN 3: TRIỂN KHAI DỮ LIỆU LÊN HOSTING VÀ ĐỒNG BỘ DỮ LIỆU
 
-**Mục đích:** Đưa 4 file ở giai đoạn 1 lên cPanel và hiệu chỉnh tham số cấu hình để hệ thống vận hành trên môi trường mới.
+**Mục đích:** Đưa 4 file ở giai đoạn 1 lên cPanel và hiệu chỉnh tham số cấu hình để hệ thống vận hành trên môi trường mới
 
 ### Bước 3.1: Triển khai mã nguồn (Source Code Deployment)
 Chúng ta sẽ đưa các file `.zip` lên các thư mục gốc (Root Directory) tương ứng trên cPanel.
