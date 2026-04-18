@@ -1,9 +1,10 @@
-# GHI CHÚ BÀI LAB: CHUYỂN HỆ THỐNG TỪ VPS SANG CPANEL (MIGRATION)
+# CHUYỂN HỆ THỐNG TỪ VPS SANG CPANEL (HOSTING)
 
 **Yêu cầu:**
 * Upload 2 source code Wordpress và Laravel ở Topic 4 vào cPanel với 2 domain tương ứng đã cấp trước đó.
 * Chủ động thêm domain còn lại vào hosting và trỏ domain về IP Hosting với file `hosts` (Local DNS).
 * Upload lại cert SSL từ VPS đã tạo trước đó để thiết lập HTTPS.
+* Lưu ý: nối tiếp lab mô hình LEMP và Proxy (đã update trước đó)
 
 **Thông tin truy cập cPanel:**
 * URL: `https://host68.vietnix.vn:2083/`
