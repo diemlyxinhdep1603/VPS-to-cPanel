@@ -2,7 +2,7 @@
 
 ### Bước 1.1: Nén Code (Gói đồ đạc vào thùng Zip)
 **1. Đăng nhập vào VPS:**
-Thao tác: 
+Thao tác:
 ```bash
 ssh root@221.132.21.142
 ```
@@ -61,7 +61,7 @@ ls -lh /root/*.sql
 Hiện tượng: Nếu thấy 4 dòng tên file (`source_wq_vps.zip`, `laravel_source_vps.zip`, `db_wp_vps.sql`, `db_laravel_vps.sql`) kèm theo dung lượng của chúng (ví dụ vài chục M - Megabyte) thì ok.
 
 ### Bước 1.4: Tải các file đã xử lý từ VPS về máy Local
-🚨 **LƯU Ý ĐÂY LÀ BƯỚC HAY NHẦM LẪN NHẤT:** Bạn không thể tải file về Local nếu bạn vẫn đang gõ lệnh ở “bên trong” VPS. Bạn phải dùng Local để “đi vào” VPS kéo file ra.
+🚨 **LƯU Ý :** Không thể tải file về Local nếu vẫn đang gõ lệnh ở “bên trong” VPS. Phải dùng Local để “đi vào” VPS kéo file ra.
 
 **1. Mở Tab Terminal Mới trên Mac:**
 Hiện tượng: Dòng chữ đầu tiên không còn là `root@training-diemly` nữa, mà là tên máy tính của bạn 
