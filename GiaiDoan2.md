@@ -1,7 +1,7 @@
 ## GIAI ĐOẠN 2: CẤU HÌNH TÊN MIỀN VÀ KHỞI TẠO CƠ SỞ DỮ LIỆU (Domain & Database Provisioning)  - môi trường HOSTING
 
 ### Bước 2.1: Khai báo tên miền Laravel 
-Đã cài sẵn tên miền WordPress (`wp.diemly.vietnix.tech`) vào thư mục gốc tên là `public_html`. Việc của bạn bây giờ là tạo thêm một "căn phòng" mới cho Laravel.
+Đã cài sẵn tên miền WordPress (`wp.diemly.vietnix.tech`) vào thư mục gốc tên là `public_html`. Việc bây giờ là tạo thêm một "căn phòng" mới cho Laravel.
 
 **1. Đăng nhập vào cPanel:**
 * **Thao tác:** truy cập vào đường link: `https://host68.vietnix.vn:2083/`
